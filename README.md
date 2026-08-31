@@ -4,6 +4,6 @@ Team Member: <br>
 2-Yash Patel <br>
 3-Meet Patel <br>
 
-Department: College of Technology
-College: Aditya Silver Oak Institute of Technology
-Degree: Computer Science Engineering
+Department: College of Technology <br>
+College: Aditya Silver Oak Institute of Technology <br>
+Degree: Computer Science Engineering <br>
